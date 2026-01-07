@@ -176,6 +176,7 @@ Content-Type: application/json
     "password_confirm": "securepassword123"
 }
 ```
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/4f6369ef-e50a-487a-bb66-fd5a29886da6" />
 
 #### Вход в систему
 ```http
