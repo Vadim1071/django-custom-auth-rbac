@@ -168,7 +168,7 @@ POST /api/auth/register/
 Content-Type: application/json
 
 {
-    "email": "user@example.com",
+    "email": "Ivan@example.com",
     "first_name": "Иван",
     "last_name": "Иванов",
     "middle_name": "Иванович",
@@ -184,7 +184,7 @@ POST /api/auth/login/
 Content-Type: application/json
 
 {
-    "email": "user@example.com",
+    "email": "Ivan@example.com",
     "password": "securepassword123"
 }
 ```
