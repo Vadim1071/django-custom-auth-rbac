@@ -1,3 +1,11 @@
+# Django Custom Auth & RBAC
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Django](https://img.shields.io/badge/Django-6.0-green)
+![DRF](https://img.shields.io/badge/DRF-3.15-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
+
+
 # Система аутентификации и авторизации на Django REST Framework
 
 Собственная система аутентификации и авторизации с разграничением прав доступа на основе ролей (RBAC).
