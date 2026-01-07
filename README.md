@@ -213,6 +213,8 @@ Content-Type: application/json
 POST /api/auth/logout/
 Authorization: Bearer <token>
 ```
+<img width="666" height="376" alt="image" src="https://github.com/user-attachments/assets/669c4095-f961-479d-b772-e030f085526d" />
+
 
 #### Получение информации о текущем пользователе
 ```http
