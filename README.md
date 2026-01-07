@@ -188,6 +188,8 @@ Content-Type: application/json
     "password": "securepassword123"
 }
 ```
+<img width="666" height="376" alt="image" src="https://github.com/user-attachments/assets/b306fb0a-50d3-4418-8afa-e403de015295" />
+
 
 **Ответ:**
 ```json
